@@ -2,4 +2,4 @@ buildPack: javascript
 pipelineConfig:
   agent:
     label: jenkins-nodejs
-    container: gcr.io/jenkinsxio/builder-nodejs:0.0.0-SNAPSHOT-PR-6316-22
+    container: gcr.io/jenkinsxio/builder-nodejs:0.0.0-SNAPSHOT-PR-6316-39
